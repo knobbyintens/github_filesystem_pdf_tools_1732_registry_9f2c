@@ -1,6 +1,6 @@
 {
   "work_title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
   "work_identifier": "arXiv:2302.04761",
-  "URL": "",
-  "notes": ""
+  "URL": "https://github.com/lucidrains/toolformer-pytorch",
+  "notes": "Highest-starred verified community implementation (2064 stars). Rejected Graph-Toolformer (different paper, arXiv:2304.11116), documentation/course lists, and lower-starred genuine implementations."
 }
